@@ -3,7 +3,9 @@ First project with JS with the goal to create a e-commerce site.
 
 
 # Collaborators
+```bash
 $ Rui Miguel Gaspar : https://github.com/justRunnz
-$ Lucas Goncalves : https://github.com/RuKaSuu
+$ Guillaume Moret : https://github.com/AyakorK
 $ Gregory CORNIER : https://github.com/SetsunaGg
+```
 
